@@ -4,3 +4,10 @@ body {
     box-sizing: border-box;
 }
 
+div {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    inline-size: auto;
+    flex-direction: column;
+}
