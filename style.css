@@ -11,6 +11,9 @@ div {
     margin-right: auto;
     box-sizing: border-box;
     width: 400px;
+    border-radius: 8px;
+    box-shadow: 3px 8px 5px #CCC;
+    padding: 10px;
 }
 
 input, button {
@@ -20,3 +23,4 @@ input, button {
     border: 1px solid #ccc;
     font-size: 16px;
 }
+
